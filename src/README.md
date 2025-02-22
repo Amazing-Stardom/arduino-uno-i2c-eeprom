@@ -1,4 +1,4 @@
-## First Working
+## **Basic Functionality** 
 
 ```cpp
 #include <Arduino.h>
@@ -107,7 +107,7 @@ void loop() {
 
 ```
 
-# Servo Motor
+# **Extended Application: Recording and Playback Demo**
 
 ```cpp
 #include <Wire.h>
